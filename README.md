@@ -1,7 +1,6 @@
-# README
+# Quickstart Rails - Ruby 3.1.2 and Rails 7.0.4
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is how it starts.
 
 Things you may want to cover:
 
